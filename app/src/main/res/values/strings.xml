@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">News App revised</string>
+    <string name="search">Search</string>
+    <string name="business">Business</string>
+    <string name="science">Science</string>
+    <string name="sports">Sports</string>
+    <string name="technology">Technology</string>
+    <string name="health">Health</string>
+    <string name="author">author</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
